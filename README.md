@@ -1,2 +1,2 @@
-# Kaggle-Learn
-Gain the skills you need to do independent data science projects
+# Kaggle Learn Courses
+Gain the skills you need to do independent data science projects.
